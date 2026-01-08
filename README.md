@@ -1,2 +1,2 @@
 # OTPLogin
-Creating an OTP Login using react JS
+OTP Login using react JS
